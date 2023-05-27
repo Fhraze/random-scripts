@@ -1,2 +1,3 @@
 # random-scripts
-just some random stuff I programmed when I was bored
+Just some random stuff I coded when I was bored.
+Poor quality code.
